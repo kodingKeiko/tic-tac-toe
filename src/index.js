@@ -8,5 +8,6 @@ const root = createRoot(document.getElementById("root"));
 root.render(
   <StrictMode>
     <App />
+    <div>Estou Aqui</div>
   </StrictMode>
 );
